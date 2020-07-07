@@ -2,7 +2,7 @@ package compare;
 
 import java.util.*;
 
-public class CardGame {
+public class Compare {
 	private List<Card> cardList = new ArrayList<Card>();
 	private List<Card> player1Card = new ArrayList<Card>();
 	private List<Card> player2Card = new ArrayList<Card>();
